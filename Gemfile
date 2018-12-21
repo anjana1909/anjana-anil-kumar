@@ -1,1 +1,1 @@
-"jekyll-theme-cayman"
+gem "jekyll-theme-cayman"
